@@ -7,3 +7,6 @@ Análisis Exploratorio de Datos (EDA): Permite a los usuarios investigar y enten
 Botón de Histograma: Al hacer clic en el botón "Construir histograma", la aplicación genera un histograma de la columna odometer del conjunto de datos. Esto permite ver la distribución de los valores de odómetro en el dataset, ayudando a identificar patrones como la frecuencia de ciertos rangos de kilometraje. Construcción de Gráficos de Dispersión:
 
 Botón de Gráfico de Dispersión: Al hacer clic en el botón "Construir gráfico de dispersión", la aplicación genera un gráfico de dispersión que muestra la relación entre dos variables (odometer y price), y utiliza diferentes colores para representar las distintas marcas de los vehículos (make). Esto ayuda a analizar cómo varía el precio en función del kilometraje y cómo se agrupan los datos por marca.
+
+
+ENLANCE DE APLIACION https://car-uish.onrender.com
